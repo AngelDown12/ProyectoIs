@@ -124,7 +124,7 @@ global.author = `𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝙀𝙡𝙞𝙩𝙚`
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
 global.gt = "𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝙀𝙡𝙞𝙩𝙚"
-global.imagen = ''
+global.imagen = 'https://files.catbox.moe/2bucu1.jpg'
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -194,7 +194,7 @@ message: {
 'seconds': '999999999', 
 'gifPlayback': 'true', 
 'caption': bottime,
-'jpegThumbnail': ''
+'jpegThumbnail': 'https://files.catbox.moe/2bucu1.jpg'
 }}}
 
 
