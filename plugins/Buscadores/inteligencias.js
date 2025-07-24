@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
   const msm = '[Sistema]'
 
   const username = await conn.getName(m.sender)
-  const basePrompt = `Tu nombre es ${botname} y parece haber sido creada por kevin. Tu versión actual es ${vs}, tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertida, y te encanta aprender. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
+  const basePrompt = `Tu nombre es ${botname} y parece haber sido creada por Cristian. Tu versión actual es ${vs}, tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertida, y te encanta aprender. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
 
   const quoted = m.quoted || m.msg
   const isQuotedImage = quoted?.mimetype?.startsWith('image/')
