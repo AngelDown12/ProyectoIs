@@ -34,7 +34,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
           contextInfo: {
             externalAdReply: {
               title: title,
-              body: "Elite Bot - YouTube Video",
+              body: "𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝙀𝙡𝙞𝙩𝙚 - YouTube Video",
               thumbnailUrl: thumbnail,
               mediaType: 1,
               renderLargerThumbnail: true,
@@ -90,7 +90,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
             contextInfo: {
               externalAdReply: {
                 title: title,
-                body: "Elite Bot - YouTube Video",
+                body: "𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝙀𝙡𝙞𝙩𝙚 - YouTube Video",
                 thumbnailUrl: thumbnail,
                 mediaType: 1,
                 renderLargerThumbnail: true,
