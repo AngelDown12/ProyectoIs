@@ -8,7 +8,7 @@ const handler = async (m, {conn, args, usedPrefix, command}) => {
   const res3 = await res2.json();
   const json = JSON.parse(JSON.stringify(res));
   const iggs = `
-┃ 𝙀𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇 🔰
+┃ 𝘾𝙍𝙄𝙎𝙏𝙄𝘼𝙉 𝙀𝙇𝙄𝙏𝙀 🌴
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ 𝙉𝙊𝙈𝘽𝙍𝙀 | 𝙉𝘼𝙈𝙀
 ┃ *${json.username}*
