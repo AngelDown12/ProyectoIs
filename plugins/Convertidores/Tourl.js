@@ -25,7 +25,7 @@ let handler = async (m, { conn }) => {
       text: txt,
       contextInfo: {
         externalAdReply: {
-          title: "Elite Bot - Catbox Uploader",
+          title: "𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝙀𝙡𝙞𝙩𝙚 - Catbox Uploader",
           body: "¡Subida exitosa!",
           thumbnailUrl: gataMenu,
           mediaType: 1,
