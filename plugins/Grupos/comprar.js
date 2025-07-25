@@ -21,12 +21,13 @@ try {
 ¡Hola! 👋🏻 @${m.sender.split("@")[0]}
  \`\`\`${week}, ${date}\`\`\`
 
-INGRESA AL LINK PARA VER EL CATÁLOGO:
-https://sites.google.com/view/elitebotglobal?usp=sharing
+HABLA CON MI CREADOR CRISTIAN
 
- © 2023 EliteBotGlobal // ProyectoX `.trim()
++52 55 6523 8431
+
+ © 2025 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚`.trim()
     
-    const vi = ['https://files.catbox.moe/tpmd88.mp4']
+    const vi = ['']
 
     try {
         await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender, global.conn.user.jid] }, { quoted: fkontak }) 
