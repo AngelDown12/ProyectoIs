@@ -9,11 +9,11 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
     var nDays = 86400000 * args[0]
     var now = new Date() * 1
     
-    m.reply(`🕔 El tiempo restante de la prueba gratis de Elitebotglobal es :  
+    m.reply(`🕔 El tiempo restante de la prueba gratis de 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 es :  
     
  ${msToDate(global.db.data.chats[who].expired - now)}
 
-Despues Elite Bot se saldra automáticamente del grupo.`) 
+Despues 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 se saldra automáticamente del grupo.`) 
     
 }
 handler.help = ['fechadeexpiracion']
