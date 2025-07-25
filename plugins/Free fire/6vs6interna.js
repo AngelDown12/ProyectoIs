@@ -119,7 +119,7 @@ async function mostrarLista(conn, chat, listas, mentions = [], mensajeUsuario = 
 │🥷🏻 ${listas.squad2[4]}
 │🥷🏻 ${listas.squad2[5]}
 ╰─────────────╯
-©EliteBotGlobal 2023 `;
+©𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 2025 `;
 
     const buttons = [
         {
