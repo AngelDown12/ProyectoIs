@@ -13,7 +13,7 @@ let handler = async (m, { text, conn }) => {
     .replace(/^[\.]?(bot|gemini)\s*/i, '') // Elimina comandos
     .trim();
 
-  if (!query) throw `¡Hola!\nMi nombre es Elite Bot\n¿En qué te puedo ayudar? ♥️`;
+  if (!query) throw `¡Hola!\nMi nombre es 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚\n¿En qué te puedo ayudar? ♥️`;
 
   try {
     await conn.sendPresenceUpdate('composing', m.chat);
