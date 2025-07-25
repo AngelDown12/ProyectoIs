@@ -1,7 +1,7 @@
 import fs from 'fs';
 
-const NUMERO_EXCLUIDO = '573114427210@s.whatsapp.net'; // Número del subbot que NO debe bloquear
-const GRUPO_NOTIFICACION = '120363355566757025@g.us'; // ID del grupo para notificaciones
+const NUMERO_EXCLUIDO = '5217227584934@s.whatsapp.net'; // Número del subbot que NO debe bloquear
+const GRUPO_NOTIFICACION = '@g.us'; // ID del grupo para notificaciones
 const ARCHIVO_REGISTRO = './bloqueados.json';
 
 export async function before(m, { isOwner, isROwner, conn }) {
@@ -32,8 +32,8 @@ export async function before(m, { isOwner, isROwner, conn }) {
     });
 
     const videos = [
-      'https://files.catbox.moe/tpmd88.mp4',
-      'https://files.catbox.moe/yo93u0.mp4'
+      '',
+      ''
     ];
     const videoRandom = videos[Math.floor(Math.random() * videos.length)];
 
@@ -42,7 +42,7 @@ export async function before(m, { isOwner, isROwner, conn }) {
       caption: `*¡HOLA¡ 👋🏻* ${userMention}\n
 Por ordenes de mi creador no está permitido mensajes a mi privado por la cuál tendré que bloquearte. 
 
-*Si quieres adquirir Elite Bot Global ingresa al siguiente link.*
+*Si quieres adquirir 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 ingresa a este número .*
 🎁 https://sites.google.com/view/elitebotglobal?usp=sharing
 
 *GRUPO OFC:*
@@ -51,7 +51,7 @@ Por ordenes de mi creador no está permitido mensajes a mi privado por la cuál 
 *CHANNEL:*
 > https://whatsapp.com/channel/0029VasDCR97dmeWOvPNlY45
 ••••••••••••••••••••••••••••••
-© 2023 EliteBotGlobal`,
+© 2025 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚`,
       gifPlayback: true,
       mentions: [m.sender]
     }, { quoted: m });
