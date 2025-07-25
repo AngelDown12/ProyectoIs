@@ -10,7 +10,7 @@ let handler = m => m
 handler.before = async function (m, { conn, participants, groupMetadata, isBotAdmin }) {
   if (!m.messageStubType || !m.isGroup) return
 
-  const FOTO_PREDETERMINADA = './src/sinfoto2.jpg'
+  const FOTO_PREDETERMINADA = 'https://files.catbox.moe/3h4fzb.jpg'
   const STICKERS_DESPEDIDA = [
     'https://files.catbox.moe/0boonh.webp',
     'https://files.catbox.moe/o58tbw.webp'
