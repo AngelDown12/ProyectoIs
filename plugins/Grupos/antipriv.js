@@ -43,7 +43,9 @@ export async function before(m, { isOwner, isROwner, conn }) {
 Por ordenes de mi creador no está permitido mensajes a mi privado por la cuál tendré que bloquearte. 
 
 *Si quieres adquirir 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 ingresa a este número .*
-🎁 https://sites.google.com/view/elitebotglobal?usp=sharing
+
+
++52 55 6523 8431
 
 *GRUPO OFC:*
 > https://chat.whatsapp.com/GzqYw7fK9CADEWEtfL6804
