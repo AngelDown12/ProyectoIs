@@ -5,7 +5,7 @@ let handler = m => m
 handler.before = async function (m, { conn }) {
   if (!m.messageStubType || !m.isGroup) return
 
-  const MAIN_BOT_NUMBER = '593986304370'
+  const MAIN_BOT_NUMBER = '525534020760'
   const currentBotNumber = conn.user.jid.split('@')[0]
   if (currentBotNumber !== MAIN_BOT_NUMBER) return
 
