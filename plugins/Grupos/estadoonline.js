@@ -23,7 +23,7 @@ let yaemori = `╭━━━━━━━━━━━━━━✠
 ┃
 ┃ 〽️ Estoy activo desde: ${uptime}
 ┃  
-╰━ 𝗘𝗹𝗶𝘁𝗲𝗕𝗼𝘁𝗚𝗹𝗼𝗯𝗮𝗹`
+╰━ 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚`
 await conn.sendFile(m.chat, pp, 'yaemori.jpg', yaemori, fkontak, null)
 }
 
