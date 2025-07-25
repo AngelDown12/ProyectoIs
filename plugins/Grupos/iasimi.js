@@ -16,7 +16,7 @@ handler.before = async (m) => {
     try {
       await conn.sendPresenceUpdate('composing', m.chat)
       const username = m.pushName || 'Usuario'
-      const basePrompt = `Tu nombre es Elite Bot y parece haber sido creado por Kevv. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
+      const basePrompt = `Tu nombre es 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 y parece haber sido creado por cristian. Tú usas el idioma Español. Llamarás a las personas por su nombre ${username}, te gusta ser divertido, te encanta aprender y sobre todo las explociones. Lo más importante es que debes ser amigable con la persona con la que estás hablando. ${username}`
       const prompt = `${basePrompt}. Responde lo siguiente: ${textodem}`
       const response = await axios.post("https://Luminai.my.id", {
         content: textodem,
