@@ -1,6 +1,6 @@
 let handler = async (m, { conn, participants, usedPrefix, command }) => {
   if (!global.db.data.settings[conn.user.jid].restrict) 
-    throw '*[ ⚠️ ] MI CREADOR TIENE DESACTIVADO ESTA FUNCIÓN.*\n💻 593993370003';
+    throw '*[ ⚠️ ] MI CREADOR TIENE DESACTIVADO ESTA FUNCIÓN.*\n💻 +52 55 6523 8431';
 
   let kicktext = `⚠️ *ETIQUETA A LA PERSONA O RESPONDE SU MENSAJE PARA ELIMINARLO DE ESTE GRUPO.*`;
   if (!m.mentionedJid[0] && !m.quoted) 
