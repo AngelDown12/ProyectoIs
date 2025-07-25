@@ -163,7 +163,7 @@ async function mostrarLista(conn, chat, listas, mentions = [], mensajeUsuario = 
 │🥷🏻 ${listas.suplente[2]}
 │🥷🏻 ${listas.suplente[3]}
 ╰─────────────╯
-©EliteBotGlobal 2023 `;
+©𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚 2025 `;
 
     const buttons = [
         {
