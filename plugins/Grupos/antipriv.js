@@ -48,7 +48,8 @@ Por ordenes de mi creador no está permitido mensajes a mi privado por la cuál 
 +52 55 6523 8431
 
 *GRUPO OFC:*
-> https://chat.whatsapp.com/GzqYw7fK9CADEWEtfL6804
+> 
+https://chat.whatsapp.com/I3VSFzkdDYG2Eo4amnC24c?mode=ac_t
 
 *CHANNEL:*
 > https://whatsapp.com/channel/0029VasDCR97dmeWOvPNlY45
