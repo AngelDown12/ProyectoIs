@@ -55,7 +55,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args}) =>
     teks += `${emoji} ${getCountryFlag(mem.id)} @${mem.id.split('@')[0]}\n`;
   }
   
-  teks += `\n*╰━* 𝙀𝙇𝙄𝙏𝙀 𝘽𝙊𝙏 𝙂𝙇𝙊𝘽𝘼𝙇\n▌│█║▌║▌║║▌║▌║▌║█`;
+  teks += `\n*╰━* 𝘾𝙍𝙄𝙎𝙏𝙄𝘼𝙉 𝘽𝙊𝙏 𝙀𝙇𝙄𝙏𝙀\n▌│█║▌║▌║║▌║▌║▌║█`;
   
   await conn.sendMessage(m.chat, {
     text: teks,
