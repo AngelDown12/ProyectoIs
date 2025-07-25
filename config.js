@@ -410,22 +410,22 @@ else return emotttt[results[0][0]];
 
 // IDs de canales
 global.ch = {
-ch1: '120363346429264411@newsletter',
-ch2: '120363346429264411@newsletter',
-ch3: '120363346429264411@newsletter',
-ch4: '120363346429264411@newsletter',
-ch5: '120363346429264411@newsletter',
-ch6: '120363346429264411@newsletter',
-ch7: '120363346429264411@newsletter',
-ch8: '120363346429264411@newsletter', 
-ch9: '120363346429264411@newsletter',
-ch10: '120363346429264411@newsletter',
-ch11: '120363346429264411@newsletter',
-ch12: '120363346429264411@newsletter',
-ch13: '120363346429264411@newsletter',
-ch14: '120363346429264411@newsletter',
-ch15: '120363346429264411@newsletter',
-ch16: '120363346429264411@newsletter',
+ch1: '120363418592718760@newsletter',
+ch2: '120363418592718760@newsletter',
+ch3: '120363418592718760@newsletter',
+ch4: '120363418592718760@newsletter',
+ch5: '120363418592718760@newsletter',
+ch6: '120363418592718760@newsletter',
+ch7: '120363418592718760@newsletter',
+ch8: '120363418592718760@newsletter', 
+ch9: '120363418592718760@newsletter',
+ch10: '120363418592718760@newsletter',
+ch11: '120363418592718760@newsletter',
+ch12: '120363418592718760@newsletter',
+ch13: '120363418592718760@newsletter',
+ch14: '120363418592718760@newsletter',
+ch15: '120363418592718760@newsletter',
+ch16: '120363418592718760@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
