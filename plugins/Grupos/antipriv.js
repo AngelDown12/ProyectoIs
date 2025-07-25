@@ -52,7 +52,7 @@ Por ordenes de mi creador no está permitido mensajes a mi privado por la cuál 
 https://chat.whatsapp.com/I3VSFzkdDYG2Eo4amnC24c?mode=ac_t
 
 *CHANNEL:*
-> https://whatsapp.com/channel/0029VasDCR97dmeWOvPNlY45
+> https://whatsapp.com/channel/0029Vb6trpZGpLHTcb11Wp2P
 ••••••••••••••••••••••••••••••
 © 2025 𝘾𝙧𝙞𝙨𝙩𝙞𝙖𝙣 𝘽𝙤𝙩 𝙀𝙡𝙞𝙩𝙚`,
       gifPlayback: true,
